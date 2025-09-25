@@ -36,9 +36,6 @@ It focuses on building **beginner-friendly examples** of background job executio
 |  **Practical Skills**             | Building background jobs like downloading, processing, and game loops |
 |  **Efficiency**                   | Writing scalable and responsive Python programs |
 
----
-
-##  Folder Structure (Example)
 
 
 
